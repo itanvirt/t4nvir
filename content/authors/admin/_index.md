@@ -11,60 +11,55 @@ last_name: Tuhin
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔍
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Position of Company
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Company Name
+    url: https://www.companywebsite.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hello@t4nvir.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/tanvir_a_tuhin
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/itanvirt
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/itanvirtuhin
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Msc in Sustainability Transitions
+    institution: University of Aberdeen
+    date_start: 2022-01-01
+    date_end: 2023-01-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
+      In the MSc in Sustainability Transitions at the University of Aberdeen, I gained a deep understanding of the complexities behind sustainable change across various sectors. The program’s interdisciplinary approach helped me develop critical thinking skills and practical strategies for addressing global sustainability challenges. I feel empowered to lead impactful solutions and contribute to transformative policies for a more sustainable future.
+#      button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BBA in Finance
+    institution: Daffodil International University
+    date_start: 2015-05-01
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+      In the BBA in Finance at Daffodil International University, I developed a solid foundation in financial analysis, investment strategies, and risk management. The program equipped me with practical skills to analyze market trends and make informed financial decisions. I feel confident in my ability to navigate the complexities of the financial world and contribute meaningfully to business growth and economic development.
+#  - area: BSc Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
       GPA: 3.4/4.0
       
       Courses included:
