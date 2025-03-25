@@ -46,7 +46,7 @@ education:
     date_end: 2023-01-31
     summary: |
       In the MSc in Sustainability Transitions at the University of Aberdeen, I gained a deep understanding of the complexities behind sustainable change across various sectors. The program’s interdisciplinary approach helped me develop critical thinking skills and practical strategies for addressing global sustainability challenges. I feel empowered to lead impactful solutions and contribute to transformative policies for a more sustainable future.
-#      button:
+      button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: BBA in Finance
