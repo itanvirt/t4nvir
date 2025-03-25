@@ -55,17 +55,6 @@ education:
     date_end: 2018-12-31
     summary: |
       In the BBA in Finance at Daffodil International University, I developed a solid foundation in financial analysis, investment strategies, and risk management. The program equipped me with practical skills to analyze market trends and make informed financial decisions. I feel confident in my ability to navigate the complexities of the financial world and contribute meaningfully to business growth and economic development.
-#  - area: BSc Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
