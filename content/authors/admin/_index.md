@@ -60,7 +60,7 @@ work:
     company_name: Company Name
     company_url: ''
     company_logo: ''
-    date_start: 20xx-xx-xx
+    date_start: 2022-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -71,8 +71,8 @@ work:
     company_name: Company Name
     company_url: ''
     company_logo: ''
-    date_start: 20xx-xx-xx
-    date_end: 20xx-xx-xx
+    date_start: 2016-01-01
+    date_end: 2017-01-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
