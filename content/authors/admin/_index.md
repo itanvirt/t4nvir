@@ -67,17 +67,17 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Position
+    company_name: Company Name
+    company_url: ''
+    company_logo: ''
+    date_start: 20xx-xx-xx
+    date_end: 20xx-xx-xx
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
