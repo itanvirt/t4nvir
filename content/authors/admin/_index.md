@@ -111,7 +111,7 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: lens
+        icon: camera
 
 languages:
   - name: English
