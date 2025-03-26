@@ -56,28 +56,28 @@ education:
     summary: |
       In the BBA in Finance at Daffodil International University, I developed a solid foundation in financial analysis, investment strategies, and risk management. The program equipped me with practical skills to analyze market trends and make informed financial decisions. I feel confident in my ability to navigate the complexities of the financial world and contribute meaningfully to business growth and economic development.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Job Position
+    company_name: Company Name
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 20xx-xx-xx
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - position: Backend Software Engineer
+#    company_name: X
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      Responsibilities include:
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -111,7 +111,7 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: lens
 
 languages:
   - name: English
